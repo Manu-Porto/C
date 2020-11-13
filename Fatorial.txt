@@ -1,0 +1,3 @@
+/*Calculo de fatorial*/
+#include <stdio.h>
+

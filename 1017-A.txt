@@ -1,0 +1,3 @@
+//gasolina
+
+float ("%d\n%d)
